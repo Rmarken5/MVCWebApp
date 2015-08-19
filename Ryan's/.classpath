@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/hibernate-validator-4.1.0.Final.jar/hibernate-validator-4.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/cglib-full-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/spring-aop-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/aspectjweaver-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/aspectjrt-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.aop-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.asm-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.aspects-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.beans-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.context.support-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.context-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.core-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.expression-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.instrument.tomcat-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.instrument-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.jdbc-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.jms-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.orm-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.oxm-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.test-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.transaction-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.web.portlet-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.web.servlet-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.web.struts-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/org.springframework.web-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/mysql-connector-java-5.1.15-bin.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/jstl.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/antlr-runtime-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/aopalliance.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/quartz-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/classes12.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/ant-antlr-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/ant-junit-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/ant-launcher-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/ant-swing-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/asm.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/checkstyle-all.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/classes12.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/cleanimports.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/concurrent-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/jaas.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/jacc-1_0-fr.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/javassist.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/jaxen-1.1-beta-7.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/jboss-cache.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/jboss-common.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/jboss-jmx.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/jboss-system.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/jgroups-2.2.8.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/jta.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/mysql-connector-java-5.1.15-bin.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/swarmcache-1.0rc2.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/syndiag2.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/versioncheck.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate examples/hibernate examples/hibernate jars/xml-apis.jar"/>
+	<classpathentry kind="lib" path="D:/spring examples/spring examples/spring jars/javax.servlet-3.1.jar/javax.servlet-3.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
